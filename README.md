@@ -48,7 +48,7 @@ Ensure that the following tools are installed on your machine:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/adrianhajdin/banking.git
+git clone https://github.com/pitonworks/banking-app-next14.git
 cd banking
 ```
 
